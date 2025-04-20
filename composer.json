@@ -1,0 +1,17 @@
+{
+  "name": "ArtuKILL/envia.com",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugins"
+  ],
+  "homepage": "https://github.com/ArtuKILL/envia.com",
+  "authors": [
+    {
+      "name": "Envia Shipping and Fulfillment",
+      "homepage": "https://envia.com/en-US/ecommerce-integration/woocommerce"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": ">=8.0"
+}
